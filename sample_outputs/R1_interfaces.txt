@@ -1,0 +1,4 @@
+
+Interface              IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0     192.168.10.1    YES manual administratively down down
+GigabitEthernet0/1     10.0.12.1       YES manual up                    up
